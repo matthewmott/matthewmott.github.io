@@ -1,6 +1,6 @@
 # Site
 title:              Matthew Mott
-bio:                'Senior Computer Engineering Student at the University of Delaware.'
+bio:                'Senior Computer Engineering Student at the University of Delaware'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         https://github.com/mmott18
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
